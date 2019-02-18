@@ -46,7 +46,7 @@
   <key>max-spam-messages-per-report</key><integer>30</integer>
   <key>vc-register</key><string>https://registration.ess.apple.com/WebObjects/VCRegistrationService.woa/wa/register</string>
   <key>vc-deregister</key><string>https://registration.ess.apple.com/WebObjects/VCRegistrationService.woa/wa/deregister</string>
-  <key>vc-registration-hbi</key><integer>2392493</integer>
+  <key>vc-registration-hbi</key><integer>2451256</integer>
   <key>gk-invitation-initiate</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/initiate</string>
   <key>gk-invitation-reinitiate</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/reinitiate</string>
   <key>gk-invitation-accept</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/accept</string>
@@ -86,9 +86,9 @@
     <string>appleid@apple.com</string>
   </array>
   <key>gk-cdx</key><string>17.155.5.232:4398</string>
-  <key>gk-commnat-main0</key><string>17.178.104.99:16384</string>
-  <key>gk-commnat-main1</key><string>17.178.104.99:16385</string>
-  <key>gk-commnat-cohort</key><string>17.178.104.100:16386</string>
+  <key>gk-commnat-main0</key><string>17.173.255.222:16384</string>
+  <key>gk-commnat-main1</key><string>17.173.255.222:16385</string>
+  <key>gk-commnat-cohort</key><string>17.173.255.223:16386</string>
   <key>gk-cdx-name</key><string>cdx.ess.apple.com:4398</string>
   <key>gk-commnat-main0-name</key><string>commnat-main.ess.apple.com:16384</string>
   <key>gk-commnat-main1-name</key><string>commnat-main.ess.apple.com:16385</string>
@@ -138,7 +138,7 @@
   <key>gdr-auth-retry-interval-seconds</key><real>15.0</real>
   <key>sms-max-retries</key><integer>5</integer>
   <key>sms-max-delivery-retries</key><integer>5</integer>
-  <key>bag-expiry-timestamp</key><integer>1551015742042</integer>
+  <key>bag-expiry-timestamp</key><integer>1551064547983</integer>
   <key>vc-enable-irat-recommendation</key><true/>
   <key>madrid-healthcheck</key><true/>
   <key>preflight-enabled</key><true/>
