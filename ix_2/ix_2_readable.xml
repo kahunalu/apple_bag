@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+	  <key>signature</key><data>OuAdxHsqcCAd/wBrbWMnwtf254+RnBXoAjd4iXhRPE/Ibh3x/3D4kXxU5I3Al/ao3KqaAYESFr5TwhiAEGXVsWMvwzo8EXjtB6/2VlrhoNu5coX/7hYq1I8SMJ3l/Rvh5UVErmbR06C0f9bXwjm0F6bbzwTI/5NgqWg5gU4nvSpUn5Hdn4YUkaAGVIGKLOyxtxc7AEnYKeVMXMjVuZWB2Iks0nU8CLLDC/omsSg6rrDyPmiWe6cyM5AmSEQvjW32FGbW+49ppsCPRo23rrwKIuFZfS9QAvuirMpAAg442OwH/L0znSrEb0MyceUdxDE2mS0F126AKoWQOZqcgq1eWQ==</data>
+	  <key>certs</key>
+	  <array>
+	    <data>
+			Version:          3 (0x02)
+			Serial number:    3390657100863252668 (0x2f0e08ab341c28bc)
+			Algorithm ID:     SHA256withRSA
+			Validity
+			  Not Before:     20/04/2018 00:06:48 (dd-mm-yyyy hh:mm:ss) (180420000648Z)
+			  Not After:      20/05/2019 00:06:48 (dd-mm-yyyy hh:mm:ss) (190520000648Z)
+			Issuer
+			  CN = Apple Server Authentication CA
+			  OU = Certification Authority
+			  O  = Apple Inc.
+			  C  = US
+			Subject
+			  CN = init.ess.apple.com
+			  O  = Apple Inc.
+			  ST = California
+			  C  = US
+			Public Key
+			  Algorithm:      RSA
+			  Length:         2048 bits
+			  Modulus:        e3:a9:4b:f9:b8:a7:25:43:8d:0b:3b:53:bd:6a:b2:12:
+			                  2f:ac:56:e8:b2:64:6e:80:6a:03:b9:5b:a0:f7:6c:a5:
+			                  5a:cb:17:f3:c8:0f:d6:b4:63:ef:2a:67:65:43:49:35:
+			                  f9:ed:ca:b6:ed:45:04:06:f9:59:22:df:bd:a8:77:ef:
+			                  95:47:d6:f7:49:03:0f:4f:c8:1a:5e:fc:bc:9a:47:29:
+			                  8b:b2:40:27:03:07:98:bb:8d:81:7a:2e:8b:5e:89:3f:
+			                  f1:70:7c:85:b1:d8:b8:7f:56:1c:73:e1:94:cd:78:b2:
+			                  d6:e1:9c:dd:a2:d3:14:18:9e:30:a7:88:3f:b6:7b:56:
+			                  52:b8:bb:d6:fd:bf:59:64:f1:c0:74:76:e7:e7:26:29:
+			                  16:03:cd:a4:16:bf:ef:f1:72:78:70:c4:ea:ee:68:0b:
+			                  46:9c:e7:2f:aa:b3:40:68:c2:10:69:d2:57:5b:b2:5d:
+			                  b3:59:bd:b2:bd:ae:98:5d:4d:8e:f0:f3:7e:66:14:03:
+			                  45:08:99:df:a5:dd:12:d9:eb:e2:86:83:95:79:8a:20:
+			                  18:c8:53:ba:33:12:af:1e:a1:5e:be:65:d4:2e:35:80:
+			                  c7:ff:eb:94:9a:86:53:72:90:8f:21:87:63:4a:14:45:
+			                  c8:aa:40:f7:d1:83:90:0a:2f:4a:c3:c9:33:11:3f:1f
+			  Exponent:       65537 (0x10001)
+			Certificate Signature
+			  Algorithm:      SHA256withRSA
+			  Signature:      01:08:11:9e:ba:db:29:a4:be:cf:f3:02:90:10:2d:3d:
+			                  9a:ad:5c:bd:0b:f9:f8:33:72:be:58:bc:ef:7b:93:27:
+			                  af:d6:e7:63:37:fc:d3:ea:14:8f:39:aa:f7:22:6b:8c:
+			                  74:46:2a:16:4b:6a:c1:dc:7b:5c:d9:2e:7c:25:97:ef:
+			                  a8:b6:72:2c:5a:e9:a1:b3:05:c0:f9:c4:19:53:0d:9c:
+			                  53:ac:24:14:e6:5c:ec:b3:17:d1:2c:e1:af:a1:17:18:
+			                  fa:b5:2f:d1:af:58:77:2f:8e:43:c9:e2:13:ea:c6:a9:
+			                  c8:ac:8d:1d:98:97:c4:5b:7e:b6:6e:c3:7c:02:ae:56:
+			                  92:7a:db:f2:83:87:41:cc:91:cc:3a:6d:09:40:89:09:
+			                  84:23:b0:04:c3:e7:24:f5:58:90:c9:34:16:df:fb:0f:
+			                  0d:55:41:de:ed:ab:ca:d0:af:6b:f0:78:22:cc:f3:5b:
+			                  36:2e:91:fe:63:14:f4:f5:d9:a8:07:b4:8a:f7:07:df:
+			                  93:59:56:60:5d:75:ac:b1:24:54:2c:c7:cc:0d:4d:54:
+			                  d3:bb:47:f9:d8:dd:38:a0:1c:c5:ea:62:08:70:7f:e4:
+			                  8b:08:d9:f9:c3:29:5d:e5:d6:13:95:66:a1:3c:d8:63:
+			                  1b:2b:ac:23:d8:60:a7:58:03:78:81:bf:2a:15:99:c2
+
+			Extensions
+			  subjectKeyIdentifier :
+			    bd091c556c7d441ab1633b90b4aa64782b53bbf1
+			  basicConstraints CRITICAL:
+			    {}
+			  authorityKeyIdentifier :
+			    kid=2cc56d52dd31ef8cec0881eddfdcca43004501d0
+			  cRLDistributionPoints :
+			    http://crl.apple.com/appleserverauthca1.crl
+			  keyUsage CRITICAL:
+			    digitalSignature,keyEncipherment
+			  extKeyUsage :
+			    serverAuth
+			  subjectAltName :
+			    DNS,init.ess.apple.com
+			  1.2.840.113635.100.6.27.4.2 :
+	    </data>
+	  </array>
+	  <key>bag</key>
+	  <data>
+	  	<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+		<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+		<plist version="1.0">
+			<dict>
+			  <key>bag-test-key</key><string>normal</string>
+			  <key>vc-build-version</key><string>1902B-35</string>
+			  <key>vc-build-revision</key><string>undefined</string>
+			  <key>vc-disaster-mode</key><false/>
+			  <key>vc-disaster-sender-max-retries</key><integer>1</integer>
+			  <key>vc-disaster-receiver-retry-interval</key><integer>600</integer>
+			  <key>vc-disaster-sender-self-tokens</key><false/>
+			  <key>vc-enable-hevc</key><false/>
+			  <key>vc-enable-hevc-v2</key><true/>
+			  <key>vc-enable-evs-audio-codec</key><true/>
+			  <key>vc-enable-red-audio</key><true/>
+			  <key>apns-ids-query-percentage</key><integer>100</integer>
+			  <key>apns-ids-query-min-version</key><integer>2</integer>
+			  <key>id-validation-cert</key><string>http://static.ess.apple.com/identity/validation/cert-1.0.plist</string>
+			  <key>id-recover-signature</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/recoverSignature</string>
+			  <key>id-initialize-validation</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/initializeValidation</string>
+			  <key>id-provision-phone-number</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/authenticatePhoneNumber</string>
+			  <key>id-preflight</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/preflight</string>
+			  <key>id-get-esat</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/getEsimAuthToken</string>
+			  <key>id-provision-ds-id</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/authenticateDS</string>
+			  <key>id-register</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/register</string>
+			  <key>id-deregister</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/deregister</string>
+			  <key>id-canonicalize</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/canonicalize</string>
+			  <key>id-query</key><string>https://query.ess.apple.com/WebObjects/QueryService.woa/wa/query</string>
+			  <key>id-check-unknown</key><string>https://query.ess.apple.com/WebObjects/QueryService.woa/wa/checkUnknown</string>
+			  <key>id-report-spam</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/reportSpam</string>
+			  <key>id-report-unknown</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/reportUnknown</string>
+			  <key>id-validate-credentials</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/validateCredentials</string>
+			  <key>id-query-by-service</key><string>https://query.ess.apple.com/WebObjects/QueryService.woa/wa/queryByService</string>
+			  <key>id-get-pairing-token</key><string>https://query.ess.apple.com/WebObjects/QueryService.woa/wa/getPairingToken</string>
+			  <key>id-get-service-user-id</key><string>https://query.ess.apple.com/WebObjects/QueryService.woa/wa/getServiceUserId</string>
+			  <key>id-get-admin-token</key><string>https://query.ess.apple.com/WebObjects/QueryService.woa/wa/getAdminToken</string>
+			  <key>id-get-consent-token</key><string>https://query.ess.apple.com/WebObjects/QueryService.woa/wa/getConsentToken</string>
+			  <key>id-get-user-token</key><string>https://query.ess.apple.com/WebObjects/QueryService.woa/wa/getUserToken</string>
+			  <key>id-get-dependent-registrations</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/getDependentRegistrations</string>
+			  <key>id-authenticate-multiple-users</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/authenticateUsers</string>
+			  <key>id-authenticate-phone-number</key><string>https://identity.ess.apple.com/WebObjects/TDIdentityService.woa/wa/authenticatePhoneNumber</string>
+			  <key>id-authenticate-ds-id</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/authenticateDS</string>
+			  <key>id-authenticate-icloud</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/authenticateICloud</string>
+			  <key>id-get-handles</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/idsGetHandles</string>
+			  <key>max-spam-message-size</key><integer>1024</integer>
+			  <key>max-spam-messages-per-report</key><integer>30</integer>
+			  <key>vc-register</key><string>https://registration.ess.apple.com/WebObjects/VCRegistrationService.woa/wa/register</string>
+			  <key>vc-deregister</key><string>https://registration.ess.apple.com/WebObjects/VCRegistrationService.woa/wa/deregister</string>
+			  <key>vc-registration-hbi</key><integer>2555905</integer>
+			  <key>gk-invitation-initiate</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/initiate</string>
+			  <key>gk-invitation-reinitiate</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/reinitiate</string>
+			  <key>gk-invitation-accept</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/accept</string>
+			  <key>gk-invitation-reject</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/reject</string>
+			  <key>gk-invitation-cancel</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/cancel</string>
+			  <key>gk-invitation-relay-initiate</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/relayInitiate</string>
+			  <key>gk-invitation-relay-update</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/relayUpdate</string>
+			  <key>gk-invitation-relay-cancel</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/relayCancel</string>
+			  <key>gk-invitation-send</key><string>https://invitation.ess.apple.com/WebObjects/VCInvitationService.woa/wa/send</string>
+			  <key>gk-invitation-break-before-make-timeout</key><real>5.0</real>
+			  <key>vc-profile-authenticate</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/authenticateUser</string>
+			  <key>vc-profile-get-handles</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/getHandles</string>
+			  <key>vc-profile-get-emails</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/getEmails</string>
+			  <key>vc-profile-validate-email</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/validateHandle</string>
+			  <key>vc-profile-validate-handle</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/validateHandle</string>
+			  <key>vc-profile-link-handle</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/linkHandle</string>
+			  <key>vc-profile-unlink-handle</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/unlinkHandle</string>
+			  <key>vc-profile-confirm-email</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/linkHandle</string>
+			  <key>vc-profile-provision</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/provisionEmails</string>
+			  <key>vc-profile-setup-page</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wp/accountSetup</string>
+			  <key>vc-profile-edit-page</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wp/accountEdit</string>
+			  <key>vc-profile-authorize</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wp/accountEdit</string>
+			  <key>vc-profile-password-change</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wp/passwordChange</string>
+			  <key>vc-profile-get-region-metadata</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/regionMetadata</string>
+			  <key>vc-profile-get-default-invitation-context</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/getDefaultInvitationContext</string>
+			  <key>vc-profile-validate-invitation-context</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wa/validateInvitationContext</string>
+			  <key>md-profile-setup-page</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wp/accountSetup</string>
+			  <key>md-profile-edit-page</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wp/accountEdit</string>
+			  <key>md-profile-authorize</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wp/accountEdit</string>
+			  <key>md-profile-password-change</key><string>https://profile.ess.apple.com/WebObjects/VCProfileService.woa/wp/passwordChange</string>
+			  <key>qr-invitations-enabled</key><integer>1</integer>
+			  <key>vc-rate-controller-type</key><integer>1</integer>
+			  <key>ds-iforgot-url</key><string>https://iforgot.apple.com/</string>
+			  <key>ds-vetting-email-from</key>
+			  <array>
+			    <string>appleid@id.apple.com</string>
+			    <string>appleid@apple.com</string>
+			  </array>
+			  <key>gk-cdx</key><string>17.155.5.232:4398</string>
+			  <key>gk-commnat-main0</key><string>17.173.255.222:16384</string>
+			  <key>gk-commnat-main1</key><string>17.173.255.222:16385</string>
+			  <key>gk-commnat-cohort</key><string>17.173.255.223:16386</string>
+			  <key>gk-cdx-name</key><string>cdx.ess.apple.com:4398</string>
+			  <key>gk-commnat-main0-name</key><string>commnat-main.ess.apple.com:16384</string>
+			  <key>gk-commnat-main1-name</key><string>commnat-main.ess.apple.com:16385</string>
+			  <key>gk-commnat-cohort-name</key><string>commnat-cohort.ess.apple.com:16386</string>
+			  <key>gk-p2p-tcp-check-url</key><string>http://static.ess.apple.com:80/connectivity.txt</string>
+			  <key>gk-p2p-ssl-check-url</key><string>https://invitation.ess.apple.com:443/WebObjects/VCInvitationService.woa/wa/healthCheck</string>
+			  <key>gk-p2p-blob-size-max</key><integer>130</integer>
+			  <key>gk-p2p-nat-type-timeout</key><real>5.0</real>
+			  <key>gk-p2p-ice-timeout</key><real>35.0</real>
+			  <key>gk-p2p-pre-relay-timeout</key><real>6.0</real>
+			  <key>gk-p2p-relay-bitrate-max</key><integer>2000</integer>
+			  <key>gk-p2p-tcp-relay-bitrate-max</key><integer>2000</integer>
+			  <key>gk-p2p-remote-packets-timeout</key><real>30.0</real>
+			  <key>gk-p2p-network-conditions-timeout</key><real>60.0</real>
+			  <key>gk-p2p-post-connectivity-check</key><true/>
+			  <key>gk-p2p-startup-timeout</key><real>30.0</real>
+			  <key>gk-p2p-video-throttling-timeout</key><real>30.0</real>
+			  <key>gk-p2p-enabled-3g</key><true/>
+			  <key>gk-p2p-bitrate-max-2g</key><integer>100</integer>
+			  <key>gk-p2p-bitrate-max-3g</key><integer>228</integer>
+			  <key>gk-p2p-bitrate-max-lte</key><integer>228</integer>
+			  <key>rtc-ac-bitrate-max-2g</key><integer>40</integer>
+			  <key>rtc-ac-bitrate-max-3g</key><integer>40</integer>
+			  <key>rtc-ac-bitrate-max-lte</key><integer>40</integer>
+			  <key>rtc-ac-relay-bitrate-max</key><integer>40</integer>
+			  <key>rtc-ac-tcp-relay-bitrate-max</key><integer>40</integer>
+			  <key>rtc-ss-bitrate-max-2g</key><integer>510</integer>
+			  <key>rtc-ss-bitrate-max-3g</key><integer>510</integer>
+			  <key>rtc-ss-bitrate-max-lte</key><integer>510</integer>
+			  <key>vc-max-bitrate-2g-uplink</key><integer>100</integer>
+			  <key>vc-max-bitrate-3g-uplink</key><integer>228</integer>
+			  <key>vc-max-bitrate-lte-uplink</key><integer>502</integer>
+			  <key>vc-max-bitrate-wifi-uplink</key><integer>2000</integer>
+			  <key>vc-max-bitrate-2g-downlink</key><integer>100</integer>
+			  <key>vc-max-bitrate-3g-downlink</key><integer>502</integer>
+			  <key>vc-max-bitrate-lte-downlink</key><integer>1078</integer>
+			  <key>vc-max-bitrate-wifi-downlink</key><integer>4100</integer>
+			  <key>phone-registration-retry-interval-seconds</key><integer>86400</integer>
+			  <key>max-uri-multi-query</key><integer>35</integer>
+			  <key>do-http-pipelining</key><true/>
+			  <key>do-http-keep-alive</key><true/>
+			  <key>http-keep-alive-idle-timeout-wifi-millis</key><integer>30000</integer>
+			  <key>http-keep-alive-idle-timeout-cell-millis</key><integer>30000</integer>
+			  <key>max-concurrent-connections</key><integer>4</integer>
+			  <key>ids-datachannels-maxbitrate-over-quick-relay</key><integer>100000</integer>
+			  <key>gdr-max-auth-retries</key><integer>10</integer>
+			  <key>gdr-auth-retry-interval-seconds</key><real>15.0</real>
+			  <key>sms-max-retries</key><integer>5</integer>
+			  <key>sms-max-delivery-retries</key><integer>5</integer>
+			  <key>bag-expiry-timestamp</key><integer>1551064453217</integer>
+			  <key>vc-enable-irat-recommendation</key><true/>
+			  <key>madrid-healthcheck</key><true/>
+			  <key>preflight-enabled</key><true/>
+			  <key>preflight-mechanism-delay</key><integer>360</integer>
+			  <key>preflight-request-limit</key><integer>5</integer>
+			  <key>vc-adaptive-learning-enabled</key><true/>
+			  <key>vc-short-term-history-length</key><integer>5</integer>
+			  <key>vc-long-term-history-length</key><integer>30</integer>
+			  <key>vc-adaptive-learning-A</key><real>0.4</real>
+			  <key>vc-adjustment-factor-A</key><real>0.25</real>
+			  <key>vc-short-term-value-weight-A</key><real>0.4</real>
+			  <key>vc-long-term-value-weight-A</key><real>0.1</real>
+			  <key>vc-adaptive-learning-B</key><real>0.4</real>
+			  <key>vc-adjustment-factor-B</key><real>0.25</real>
+			  <key>vc-short-term-value-weight-B</key><real>0.5</real>
+			  <key>vc-long-term-value-weight-B</key><real>0.2</real>
+			  <key>vc-adjustment-factor-C</key><real>0.5</real>
+			  <key>vc-short-term-value-weight-C</key><real>0.4</real>
+			  <key>vc-long-term-value-weight-C</key><real>0.1</real>
+			  <key>m-reply-enabled</key><false/>
+			  <key>vc-red-state-value-A</key><integer>29</integer>
+			  <key>ds-session-token-grace-period</key><integer>6</integer>
+			  <key>ck-remove-from-backup-version</key><integer>0</integer>
+			  <key>absinthe-v3-enabled</key><true/>
+			  <key>absinthe-baa-option-enabled</key><true/>
+			  <key>vc-viewpoint-correction-enabled</key><true/>
+			  <key>ids-rtencryption-mkm-expire-duration</key><integer>1200</integer>
+			  <key>ids-rtencryption-prekey-expire-duration</key><integer>3600</integer>
+			  <key>vc-disable-ft-mw</key><integer>1</integer>
+			  <key>ids-multiway-ftmessage-send-timeout</key><integer>605</integer>
+			  <key>vc-decryption-timeout-interval</key><integer>30</integer>
+			  <key>vc-new-session-joining-interval</key><integer>120</integer>
+			  <key>kt-enabled</key><integer>1</integer>
+			</dict>
+		</plist>
+	  </data>
+	</dict>
+</plist>
